@@ -192,3 +192,12 @@ label {
       margin-right: 10px;
     }
   }
+
+
+tbody td{
+    color: rgb(123, 123, 123);
+}
+
+form p{
+    color: white;
+}
